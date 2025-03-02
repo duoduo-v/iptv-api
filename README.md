@@ -74,33 +74,17 @@
 - 接口源：
 
 ```bash
-https://raw.githubusercontent.com/52liulian/iptv-api/gd/output/result.m3u
+https://raw.githubusercontent.com/52liulian/iptv-api/gd/output/iptv.m3u
 ```
 
 ```bash
-https://raw.githubusercontent.com/52liulian/iptv-api/gd/output/result.txt
-```
-
-或
-
-```bash
-https://cdn.jsdelivr.net/gh/52liulian/iptv-api@gd/output/result.m3u
-```
-
-```bash
-https://cdn.jsdelivr.net/gh/52liulian/iptv-api@gd/output/result.txt
+https://raw.githubusercontent.com/52liulian/iptv-api/gd/output/iptv.txt
 ```
 
 - 数据源：
 
 ```bash
 https://raw.githubusercontent.com/52liulian/iptv-api/gd/source.json
-```
-
-或
-
-```bash
-https://cdn.jsdelivr.net/gh/52liulian/iptv-api@gd/source.json
 ```
 
 ## 配置
@@ -133,7 +117,7 @@ https://cdn.jsdelivr.net/gh/52liulian/iptv-api@gd/source.json
 | open_use_cache         | 开启使用本地缓存数据，适用于查询请求失败场景（仅针对酒店源与组播源）                                                                                                                                    | True              |
 | open_history           | 开启使用历史更新结果（包含模板与结果文件的接口），合并至本次更新中                                                                                                                                     | True              |
 | app_port               | 页面服务端口，用于控制页面服务的端口号                                                                                                                                                   | 8000              |
-| final_file             | 生成结果文件路径                                                                                                                                                              | output/result.txt |
+| final_file             | 生成结果文件路径                                                                                                                                                              | output/iptv.txt |
 | hotel_num              | 结果中偏好的酒店源接口数量                                                                                                                                                         | 10                |
 | hotel_page_num         | 酒店地区获取分页数量                                                                                                                                                            | 1                 |
 | hotel_region_list      | 酒店源地区列表，"全部"表示所有地区                                                                                                                                                    | 全部                |
