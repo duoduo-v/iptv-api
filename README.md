@@ -294,6 +294,7 @@ docker run -d -p 8000:8000 guovern/iptv-api:lite
 
 [更新日志](./CHANGELOG.md)
 
+<!-- 这是一个注释，它不会在浏览器中显示 
 ## 赞赏
 
 <div>开发维护不易，请我喝杯咖啡☕️吧~</div>
@@ -306,7 +307,7 @@ docker run -d -p 8000:8000 guovern/iptv-api:lite
 
 微信公众号搜索 Govin，或扫码，接收更新推送、学习更多使用技巧：
 
-![微信公众号](./static/images/qrcode.jpg)
+![微信公众号](./static/images/qrcode.jpg)-->
 
 ## 免责声明
 
