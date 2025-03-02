@@ -18,3 +18,4 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
 https://live.hacks.tools/tv/iptv4.m3u
+https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
